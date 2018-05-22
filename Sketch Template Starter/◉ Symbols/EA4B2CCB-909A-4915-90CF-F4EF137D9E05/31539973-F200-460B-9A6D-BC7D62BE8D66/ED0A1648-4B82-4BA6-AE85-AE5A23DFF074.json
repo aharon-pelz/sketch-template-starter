@@ -1,0 +1,112 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.5882352941,
+            "green": 0.5568627451,
+            "red": 0.5254901961
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "NotoSans",
+              "size": 20
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "maximumLineHeight": 28,
+            "minimumLineHeight": 28
+          }
+        },
+        "length": 291,
+        "location": 0
+      }
+    ],
+    "string": "Lorem ipsum dolor sit amet, nobis laudem malorum cu ius. Minim tritani inciderint ad mea, ei mel tation habemus evertitur, insolens facilisis vim an. Affert primis apeirian est in. Movet iudico an nec, dissentias cotidieque ex eos. Nam ut possim vituperata, mea at commune voluptua percipit."
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "ED0A1648-4B82-4BA6-AE85-AE5A23DFF074",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "07A87661-F329-4B24-98D4-699F368B7470",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "577731E9-27E0-4EBA-9064-AF6F4A887744",
+    "height": 252,
+    "width": 330,
+    "x": 0,
+    "y": 0
+  },
+  "glyphBounds": "{{0, 6}, {322, 245}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Lorem ipsum dolor si",
+  "nameIsFixed": false,
+  "resizingConstraint": 26,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4AD9A803-9347-487E-81BA-8ED59C590387",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "sharedObjectID": "F120931E-8249-4B94-BAFE-C2FF8C19080A",
+    "startDecorationType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "31C31D89-7D17-4AF8-831E-5B5F788F1E0E",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.5882352941,
+          "green": 0.5568627451,
+          "red": 0.5254901961
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "NotoSans",
+            "size": 20
+          }
+        },
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "maximumLineHeight": 28,
+          "minimumLineHeight": 28
+        }
+      },
+      "verticalAlignment": 0
+    }
+  },
+  "textBehaviour": 1,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 0
+      }
+    }
+  }
+}

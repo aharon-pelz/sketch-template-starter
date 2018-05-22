@@ -1,0 +1,113 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "6D99B15B-B252-4031-959E-A7B99C9553C5",
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 2890,
+  "do_objectID": "981D93FB-6030-4F42-AD91-949E0ABA8196",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "15817982-BBEC-485A-A124-E8F4704BAC6F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "45638091-76C1-4E6D-A7EB-3305A56416FE",
+    "height": 52,
+    "width": 200,
+    "x": -238,
+    "y": 1565
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "2364204C-C978-4804-BACC-D543A92646E1",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "5D9811DB-20FA-46B6-AADC-AFCB3BE71340"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5C38D203-A5E6-46A2-9044-B7AD29F8BBD4"
+    },
+    {
+      "class": "text",
+      "id": "BDB64086-B6A4-4B7F-82C4-BFCAD765ED29"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D5A1A2B7-B1E5-458D-8229-0EB53966C7D2"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 29.16666666666667,
+    "do_objectID": "44BD97CB-E88F-43B6-8624-47B3D4094D6D",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 30,
+    "guttersOutside": true,
+    "horizontalOffset": -205,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 710
+  },
+  "name": "UI / Form / Search / Large",
+  "nameIsFixed": true,
+  "originalObjectID": "ACE1499E-A344-44AD-B9B4-488CBA0062EB",
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E0E1229B-865B-4094-B87E-C1721BE99517",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "2C04DB9D-A5F4-4915-86CF-2C03D4DC1031",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "43D87545-1913-4B50-9C9E-1857984D574A",
+    "guides": [
+    ]
+  }
+}

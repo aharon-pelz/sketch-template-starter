@@ -1,0 +1,73 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "9DED576F-5459-4A88-B56A-03BFCADB98DF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9B502177-4A84-4407-9183-B14A09A0C19F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "00CDF24A-4589-4B29-BFFA-3A838303DDFE",
+    "height": 19.94072265625,
+    "width": 22.66666666666666,
+    "x": 0.6666666666666679,
+    "y": 2.029638671875
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "B839A46F-E349-4DC9-9D01-28C07B0711CD"
+    }
+  ],
+  "name": "heart",
+  "nameIsFixed": false,
+  "originalObjectID": "B7EDCEDA-72D8-43CE-98D4-29B608E57198",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A1D3D8B6-4C3B-41F6-A2E0-21A105572933",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 19.94072,
+            "enabled": 1,
+            "modelID": "constraint_653f0ef1-2856-475d-b3b8-5d5d9abc0861",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 22.66667
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_5d5cd068-d8a6-44db-9b80-1da36f18b8ed",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  },
+  "windingRule": 0
+}

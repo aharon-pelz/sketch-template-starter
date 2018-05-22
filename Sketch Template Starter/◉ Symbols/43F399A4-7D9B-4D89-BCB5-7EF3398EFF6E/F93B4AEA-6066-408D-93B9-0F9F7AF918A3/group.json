@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "do_objectID": "F93B4AEA-6066-408D-93B9-0F9F7AF918A3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3DBE5103-6A84-47EB-90E4-F0F9DE07AC61",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2CD1C7BA-63FD-4428-9D08-02E6BD7929B7",
+    "height": 405,
+    "width": 188,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "465A5B60-9FA3-42CF-B87C-57C8D6634A75"
+    },
+    {
+      "class": "text",
+      "id": "D07834D9-B001-493B-BFD8-7162A1EFE609"
+    },
+    {
+      "class": "text",
+      "id": "17158E97-761A-45EB-90D1-F3346DD4EC57"
+    },
+    {
+      "class": "text",
+      "id": "33D48792-8AB5-4419-A5D3-2A28309E00F5"
+    }
+  ],
+  "name": "Display - Left",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EB99DDF0-B5AA-498D-9D00-79F51D1177EE",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

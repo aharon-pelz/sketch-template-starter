@@ -1,0 +1,89 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "295708DA-2B58-4777-A214-093554FA2C5D",
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 1534,
+  "do_objectID": "690A0BEB-0C34-4011-9ACA-7F8952F7607B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "50F9F431-5D9D-496F-96DD-68D2634E9DEE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5D2D2CC9-A040-47BF-84CB-2AA14DDF2AE3",
+    "height": 24,
+    "width": 24,
+    "x": -1711,
+    "y": 2050
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "67E29AEB-BCE6-4917-AE60-06931BF344F5",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "37BA9115-8BC9-43EB-91CF-5E689276F0BB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B14EC245-9C41-4C52-8955-D5AE22A1B107"
+    }
+  ],
+  "name": "🖌️ / Regular / fa_bars",
+  "nameIsFixed": false,
+  "originalObjectID": "A7F8B69B-D9CD-4F83-AF33-6B83CC9E2F15",
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C99D3279-2116-4143-BB6A-D340762CEA21",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "8201EEF3-D1EE-47CE-8CEB-D14A9B7BEE40",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "9A620D6E-BA76-475A-B3C6-E9F32D2DFD09",
+    "guides": [
+    ]
+  }
+}

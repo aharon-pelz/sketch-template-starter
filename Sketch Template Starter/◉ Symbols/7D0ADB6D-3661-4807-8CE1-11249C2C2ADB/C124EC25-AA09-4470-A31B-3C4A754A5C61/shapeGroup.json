@@ -1,0 +1,81 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "C124EC25-AA09-4470-A31B-3C4A754A5C61",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2D1BA9CF-0235-44CD-8A91-AB1A6080F66C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "8E9D4078-7C2B-4A52-9D32-A0913B81CA81",
+    "height": 18.75,
+    "width": 4.5,
+    "x": 9.75,
+    "y": 2.625
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "E1F2D568-6A60-4068-9C3A-F7C6C5D61E95"
+    },
+    {
+      "class": "shapePath",
+      "id": "6B037C84-E226-49C3-9805-E9CAD485B676"
+    },
+    {
+      "class": "shapePath",
+      "id": "999B9193-A3E2-4AD4-BDFD-2369316CF621"
+    }
+  ],
+  "name": "ellipsis-v",
+  "nameIsFixed": false,
+  "originalObjectID": "956FFC44-2D69-4AE8-9691-F0D97EC8BF4A",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CAEDF47E-615A-44BA-A537-8F8009E1EA3D",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 18.75,
+            "enabled": 1,
+            "modelID": "constraint_8ed2ba64-bc85-4c1a-9378-f890bb3404f3",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 4.5
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_7dc7d2d1-7b7c-4f29-9fee-951d542968fa",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  },
+  "windingRule": 0
+}

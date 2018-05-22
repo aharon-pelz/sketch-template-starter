@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "do_objectID": "92180ED6-E257-4EDA-8025-D436F4DFDF2A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F5AD3930-E653-4DB3-BD0A-49619EDFB179",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CBD01C32-9E99-44B0-A837-8CDA6F8DD3F9",
+    "height": 2115,
+    "width": 457,
+    "x": 0,
+    "y": 32
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "2941B9DB-37C7-4320-89FE-F1A5B1895A51"
+    },
+    {
+      "class": "group",
+      "id": "50A98BC7-7D38-4ED6-BFFB-F2A0B204D20E"
+    },
+    {
+      "class": "group",
+      "id": "48BE9B86-0BB3-49CF-92D3-72E58CDB7DAC"
+    }
+  ],
+  "name": "Group 16",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F4C74F4A-9CBF-4799-9134-226F22CC927F",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "align": 0,
+        "isCollapsing": 1,
+        "spacing": 0,
+        "stackType": 0
+      },
+      "kViewTypeKey": "ADModelStackView"
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "do_objectID": "17B62FBB-F7CC-4D32-BFC9-CFEE83511EF4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2D09A8C4-672C-44D8-82AB-B33A7A6B96EB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2028870C-4778-485C-A891-D7AA8095A5CC",
+    "height": 405,
+    "width": 188,
+    "x": 256,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "49238F3D-11BD-4490-A466-A4021455294C"
+    },
+    {
+      "class": "text",
+      "id": "F6E49705-D633-4827-912A-1E6CD0F32E25"
+    },
+    {
+      "class": "text",
+      "id": "4609DBC4-6402-4266-932C-C46881BFFB39"
+    },
+    {
+      "class": "text",
+      "id": "3310E4A7-DF70-4657-9635-60AFADEB001D"
+    }
+  ],
+  "name": "Display - Center",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2532CF22-17CF-43B7-B345-24D968797D5F",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

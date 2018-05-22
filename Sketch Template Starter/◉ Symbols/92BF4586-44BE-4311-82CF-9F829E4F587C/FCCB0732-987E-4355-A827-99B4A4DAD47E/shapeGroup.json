@@ -1,0 +1,73 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "FCCB0732-987E-4355-A827-99B4A4DAD47E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BB2E2E89-91F1-464B-A203-FFAF4A5861D4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "75A3BA93-038D-4D7F-AC59-594C9CB4B529",
+    "height": 7.905468750000001,
+    "width": 13.93638803890619,
+    "x": 5.031805980546903,
+    "y": 8.047265625
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "40773F7A-AE2A-4C1A-8F12-0BA09C80DEBF"
+    }
+  ],
+  "name": "caret-down",
+  "nameIsFixed": false,
+  "originalObjectID": "DCB38501-7FB5-4590-8D93-6CBDBA5ABFFE",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3678CCF0-7452-452F-ABD2-938DC2317B32",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 7.905469,
+            "enabled": 1,
+            "modelID": "constraint_de93763c-b087-40d9-8b51-ad1fd28db8c8",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 13.93639
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_d53a58f0-ebaf-4031-a142-c4f336f67192",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  },
+  "windingRule": 0
+}

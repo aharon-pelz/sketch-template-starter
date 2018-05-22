@@ -1,0 +1,109 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "12BD6DAF-E951-4B67-B273-C157A341D448",
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 2483,
+  "do_objectID": "A9E06AD0-1ACE-40EF-BDD8-132B6A805D7C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "37E7CFFB-7E1A-4914-8E72-94F22A8EFE2A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "84E55898-A375-4D3C-BF30-6C36A927CB3B",
+    "height": 27,
+    "width": 200,
+    "x": -498,
+    "y": 1046
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "379B0442-5F15-47E5-8940-8FF517867138",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "CFCE1B9C-11E4-4F89-9648-A38E6A305DF1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B908D63C-DC8B-4A16-9E74-1B6CD4B5EA84"
+    },
+    {
+      "class": "text",
+      "id": "B5B0C17D-372C-4761-9733-AAE34FB79E4C"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 29.16666666666667,
+    "do_objectID": "C0ADF3EC-9349-4136-805F-71C63BB70CB0",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": false,
+    "gutterHeight": 12,
+    "gutterWidth": 30,
+    "guttersOutside": true,
+    "horizontalOffset": -205,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 710
+  },
+  "name": "UI / Form / Text input / Small",
+  "nameIsFixed": true,
+  "originalObjectID": "1C062F36-ED8B-44D3-957A-873FF9A1A6DE",
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E2C16858-4B03-4C61-9FD0-43737096A97A",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "FA2F6913-AEC5-4091-8D80-E5FF10167738",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "2A7678A6-5462-4949-9805-BB4F656F7979",
+    "guides": [
+    ]
+  }
+}

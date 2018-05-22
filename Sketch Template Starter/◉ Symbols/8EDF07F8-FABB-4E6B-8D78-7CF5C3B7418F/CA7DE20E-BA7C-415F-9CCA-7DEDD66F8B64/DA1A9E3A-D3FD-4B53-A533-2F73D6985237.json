@@ -1,0 +1,83 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "DA1A9E3A-D3FD-4B53-A533-2F73D6985237",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5EB43439-4A47-4852-B730-173D8C15E0A6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FFFC056E-C937-430A-AEDF-B18BB564AC7F",
+    "height": 27,
+    "width": 140,
+    "x": 32,
+    "y": 27
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "UI / Button / Primary / Small / Icon left",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "124D6D54-8D39-480F-A6A6-D108EA94F342",
+      "overrideName": "53F97057-CBDA-49EE-9625-48622904C1D1_symbolID",
+      "value": "ACC9F507-C539-4D6B-A0F1-E64A40671B5B"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3363BCCC-FB7D-496D-BDE7-409466E09FDB",
+      "overrideName": "5CD3A212-DCD4-4BD4-815B-9505480BC0A4_symbolID",
+      "value": "582C20EA-DE80-4095-ADCC-04436FAC9D35"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "94CB3EED-296B-4633-AB7E-B8BDF57B9539",
+      "overrideName": "05D34E26-BE58-458A-8588-9C3D04851F38_stringValue",
+      "value": "Prototype menu"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FE602724-09E5-46D0-B091-DD4C733C5147",
+      "overrideName": "53F97057-CBDA-49EE-9625-48622904C1D1/67A51B5A-876F-49F3-88C4-770E93D864C3_symbolID",
+      "value": "2C1840FA-B14B-430C-82D1-387D204D6A6C"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0ED22CC9-2872-4E28-A871-631700DAC602",
+      "overrideName": "5CD3A212-DCD4-4BD4-815B-9505480BC0A4/8537C31F-1FA1-4E28-8477-222E8D497715_symbolID",
+      "value": "7979089A-4CA3-4D5D-A68D-D4610FE90CEA"
+    }
+  ],
+  "resizingConstraint": 41,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "21866B7D-54DA-4779-8467-5CD44442A856",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "E711C737-BF24-424F-979D-9201AC03E295",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

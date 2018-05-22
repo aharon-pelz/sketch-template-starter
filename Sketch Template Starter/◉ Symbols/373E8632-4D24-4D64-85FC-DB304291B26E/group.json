@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "do_objectID": "373E8632-4D24-4D64-85FC-DB304291B26E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8DCC0F38-4413-4181-BD8A-7623199359CD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C9D9AE09-FA22-4C8B-9DA6-DD0C22D9A2D2",
+    "height": 2169,
+    "width": 850,
+    "x": 5219,
+    "y": 93
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": true,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "48F5CF13-A696-43E4-B6FD-60E8E6FD5A55"
+    },
+    {
+      "class": "text",
+      "id": "ED7D07B9-AACF-419A-9A9F-1B7FBFA0F154"
+    },
+    {
+      "class": "text",
+      "id": "BEB56D68-EFE7-4876-9349-1617D5559789"
+    }
+  ],
+  "name": "Pattern library",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4FDA78D4-AA9D-4B35-9D30-F8E8C8DFE1E2",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "EDD38D65-6E46-4FA5-9B6C-E083F679595F",
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 4455,
+  "do_objectID": "A1AF4A8D-8DA5-4187-8612-D19A11CC966A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "598BAD22-1163-4422-8DC2-271C330CA559",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6ADE84D3-68B7-4459-80C7-BE7628D33DC5",
+    "height": 48,
+    "width": 200,
+    "x": -498,
+    "y": 1343
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "0380AF95-6B5A-4AEF-8281-8A233B085719",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "0981BA44-8F6A-4F17-81F7-DD25EE64C685"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B94DDB27-E1D6-4879-9110-B5AAE1525873"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "710786DA-31AC-4F90-9520-1278785019D4"
+    },
+    {
+      "class": "text",
+      "id": "342FC6D9-2939-490D-98A2-D2F8704BC237"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 29.16666666666667,
+    "do_objectID": "F78FC89A-50A5-448F-9E29-DC9E2ECC1FA0",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 30,
+    "guttersOutside": true,
+    "horizontalOffset": -311.5,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 710
+  },
+  "name": "UI / Form / Outline / Dropdown / Large",
+  "nameIsFixed": true,
+  "originalObjectID": "532DFDEE-CE21-428A-97AA-DC72F89E40A6",
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "76568F71-77E0-4346-971E-8EA1151DBA46",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "07485A64-98B3-4937-96E0-C52A174959A2",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "5F13E13E-1EDB-42BA-9C5B-05B766A574A3",
+    "guides": [
+    ]
+  }
+}
