@@ -32,6 +32,14 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
+    {
+      "class": "artboard",
+      "id": "5E6BE9D5-807C-4FCC-B19A-2EE13BB2BDD3"
+    },
+    {
+      "class": "artboard",
+      "id": "433C15D5-CBC6-4BD8-BE94-02B21BE3184D"
+    }
   ],
   "name": "● Page",
   "nameIsFixed": true,
